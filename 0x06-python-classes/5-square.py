@@ -48,7 +48,7 @@ class Square:
         """Setter for __size attribute.
 
         Args:
-            value (int): value to set __size to
+            value (int): value to set __my_printsize to
 
         Raises:
             TypeError: if size is not an integer
