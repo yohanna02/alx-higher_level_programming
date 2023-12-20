@@ -25,7 +25,7 @@ class Square:
         Raises:
             TypeError: if size is not an integer
             ValueError: if size is less than 0
-            
+
         Returns:
             None
         """
