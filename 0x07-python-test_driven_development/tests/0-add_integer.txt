@@ -19,7 +19,7 @@ TypeError: a must be an integer
 >>> print(add_integer(3, "world"))
 Traceback (most recent call last):
 ...
-TypeError: a must be an integer
+TypeError: b must be an integer
 
 >>> print(add_integer(-3, -3))
 -6

@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 """
-Module 0-add_integer.py
 This module defines a function add_integer() that adds two integers.
 
 Functions:
