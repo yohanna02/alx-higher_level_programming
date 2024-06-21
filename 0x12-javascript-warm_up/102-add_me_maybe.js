@@ -1,5 +1,6 @@
 #!/usr/bin/node
 function addMeMaybe (number, func) {
-  func(number++);
+  const newNumber = number++;
+  func(newNumber);
 }
 module.exports = { addMeMaybe };
